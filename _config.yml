@@ -1,0 +1,16 @@
+title: A Meaningful Technology Blog Title
+author: Todd Morningstar
+email: techarchist@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Software Developer Consultant seeking to bring humanity into technology. Ive
+  used tools like Ruby on Rails, JavaScript, SQL, Heroku and AWS to build a
+  technical foundation for success for almost 15 years. Test driven development,
+  SOLID design principles, and MVP-focus are the styles that allow such tools to
+  perform successfully. Collaborative communication, emotional intelligence,
+  and continuous improvement are the philosophies which allow people to reach
+  succesful outcomes together. Join me in an endeavor to improve how we work in
+  tech.
+github_username: stratigos # DO NOT include the @ character, or else the build will fail!
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
+#twitter_username: toddmorningstar # DO NOT include the @ character, or else the build will fail!
