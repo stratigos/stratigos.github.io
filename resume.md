@@ -27,6 +27,7 @@ _April 2018 - April 2020_
   * DevOps and Data Engineering
   * GraphQL
   * Functional Scala and Elm
+* Relocated to San Francisco, CA
 
 ### Freelance Web Developer
 **First Engineer | Developer Consultant | Backend Developer**  
@@ -35,6 +36,7 @@ _March 2014 - April 2018_
   * Ill make a separate page to discuss this work, coming soon! 🆕
   * I mostly operated like a technical founder / startup CTO, without the perks
 * Medical / HIPPA, IoT, CMS, CRM, E-Commerce, Marketplaces, and Media Content
+* Worked 100% remote from Brooklyn, NY for clients around the world.
 * Discovered running a business is really hard
 
 ### CMI Marketing
@@ -42,6 +44,7 @@ _March 2014 - April 2018_
 _Oct 2013 - Feb 2014_
 * Consulted on modernization of legacy media platform
 * Maintained and contributed to biggest parenting sites on the web
+* Created a framework and provided mentorship for remote work
 
 ### Ashe Avenue Development
 **Senior Software Developer**  
@@ -49,6 +52,7 @@ _Oct 2011 - Oct 2013_
 * Built Vice.com and the Vice Media Platform
 * Contributed to a few other media sites, managed several clients
 * Worked in startup development agency environment
+* Earned first remote / distributed team experience
 
 ### Viacom
 **Software Engineer**  
